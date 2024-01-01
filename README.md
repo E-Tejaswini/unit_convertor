@@ -25,3 +25,10 @@ decagram,gram,decigram,centigram,milligram and pounds.
 
 Have a look,how it works👀
 
+![Screenshot 2023-12-30 220814](https://github.com/E-Tejaswini/unit_convertor/assets/147268553/3f29b595-be73-45e0-9e4c-73115270a1dd)
+
+![Screenshot 2023-12-30 220613](https://github.com/E-Tejaswini/unit_convertor/assets/147268553/f78a3f27-e398-4845-a590-41b74868e642)
+
+![Screenshot 2023-12-30 220546](https://github.com/E-Tejaswini/unit_convertor/assets/147268553/06f3cda6-1993-4be2-87c1-1ae777e32ac5)
+
+
